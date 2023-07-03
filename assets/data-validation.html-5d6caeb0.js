@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-28b442c9","path":"/guide/data-validation.html","title":"数据验证","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"参数值验证","slug":"参数值验证","link":"#参数值验证","children":[]},{"level":2,"title":"参数或返回模型属性验证","slug":"参数或返回模型属性验证","link":"#参数或返回模型属性验证","children":[]}],"git":{},"filePathRelative":"guide/data-validation.md"}');export{t as data};

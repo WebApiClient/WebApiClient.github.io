@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1a35dc74","path":"/guide/exception-process.html","title":"异常和异常处理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/exception-process.md"}');export{e as data};

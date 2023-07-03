@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9f75a026","path":"/guide/json-rpc.html","title":"JsonRpc调用","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"JsonRpc声明","slug":"jsonrpc声明","link":"#jsonrpc声明","children":[]},{"level":2,"title":"JsonRpc数据包","slug":"jsonrpc数据包","link":"#jsonrpc数据包","children":[]}],"git":{},"filePathRelative":"guide/json-rpc.md"}');export{e as data};

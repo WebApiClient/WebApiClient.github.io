@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-763f79fa","path":"/old/advanced/env-without-di.html","title":"1、没有依赖注入的环境","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"1.1 使用HttpApi.Register/Resolve","slug":"_1-1-使用httpapi-register-resolve","link":"#_1-1-使用httpapi-register-resolve","children":[]}],"git":{},"filePathRelative":"old/advanced/env-without-di.md"}');export{e as data};
