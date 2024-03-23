@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4beffea8","path":"/guide/file-download.html","title":"文件下载","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/file-download.md"}');export{e as data};

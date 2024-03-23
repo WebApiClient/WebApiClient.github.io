@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9d928654","path":"/guide/interface-demo.html","title":"接口声明示例","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/interface-demo.md"}');export{e as data};

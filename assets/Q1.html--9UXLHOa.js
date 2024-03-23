@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1013fcda","path":"/qa/Q1.html","title":"如何设置Url的参数缺省","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Questions","slug":"questions","link":"#questions","children":[]},{"level":2,"title":"Answers","slug":"answers","link":"#answers","children":[]}],"git":{},"filePathRelative":"qa/Q1.md"}');export{e as data};

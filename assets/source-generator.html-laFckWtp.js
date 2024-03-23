@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cdc61f28","path":"/guide/source-generator.html","title":"SourceGenerator","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/source-generator.md"}');export{e as data};

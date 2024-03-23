@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-395a3614","path":"/old/senior/diy-attribute.html","title":"3、自定义特性","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"3.1 自定义IApiParameterAttribute","slug":"_3-1-自定义iapiparameterattribute","link":"#_3-1-自定义iapiparameterattribute","children":[]}],"git":{},"filePathRelative":"old/senior/diy-attribute.md"}');export{t as data};
