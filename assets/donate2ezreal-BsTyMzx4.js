@@ -1,0 +1,1 @@
+var e=`/donate2laojiu.png`,t=`/donate2ezreal.png`;export{e as n,t};
